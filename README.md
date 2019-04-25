@@ -6,5 +6,5 @@
 2. Mongodb
 
 Run with Dockerfile
-docker build -t Flask_Celery_Mongodb_template:latest .
-docker run -p 5000:80 Flask_Celery_Mongodb_template:latest
+1. docker build -t Flask_Celery_Mongodb_template:latest .
+2. docker run -p 5000:80 Flask_Celery_Mongodb_template:latest
